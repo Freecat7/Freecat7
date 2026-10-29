@@ -1,9 +1,17 @@
 ## Lennart Müller
 
-**22 · Linux & Cyber Security · Entrepreneur**
+**22 · Linux & Cybersecurity · Infrastructure · Entrepreneur**
 
-I work with Linux, self-hosting and security, and I build the things I need myself
-instead of renting them.
+I'm fascinated by technology, infrastructure and the systems that power the digital world. My interests range from Linux, networking and cybersecurity to self-hosting, automation and software development.
+
+I enjoy understanding how things work beneath the surface, connecting different technologies and building solutions from the ground up. Rather than relying on ready-made services and subscriptions, I prefer having control over my own infrastructure, experimenting with new technologies and developing tools that solve real-world problems.
+
+I'm particularly interested in:
+- **Linux & Infrastructure** – Linux systems, server administration, networking, Docker and self-hosted environments.
+- **Cybersecurity** – System hardening, infrastructure security, vulnerabilities and secure architecture.
+- **Self-Hosting & Digital Sovereignty** – Running my own services, controlling data and reducing dependency on third-party platforms.
+- **Software & Automation** – Building practical software, integrating systems and automating repetitive processes.
+- **Entrepreneurship** – Turning technical ideas into useful products, exploring business opportunities and building things independently.
 
 ### invoicelite
 
